@@ -3,7 +3,7 @@ title: Pattern Library Overview
 author: dlabrecq
 layout: page
 ---
-<p>The PatternFly library is a collection of UI design patterns. Design patterns are recurring solutions that solve
+<p>The HELLO 2 PatternFly library is a collection of UI design patterns. Design patterns are recurring solutions that solve
 common design problems and provide a common language for people who create user interfaces. In general, patterns do not
 specify requirements, but rather, present recommended solutions to design problems. PatternFly patterns build on that
 approach by additionally considering the needs of complex enterprise IT software, and the habits and motivations of its
