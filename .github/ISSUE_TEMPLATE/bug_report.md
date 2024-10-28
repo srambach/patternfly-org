@@ -2,7 +2,7 @@
 name: Bug report
 about: Help us to improve patternfly.org
 title: Bug - [short description]
-labels: bug
+type: bug
 assignees: ''
 
 ---

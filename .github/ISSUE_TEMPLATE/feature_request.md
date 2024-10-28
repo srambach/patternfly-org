@@ -3,7 +3,7 @@ name: Enhancement request
 about: Suggest new content for patternfly.org
 title: [short description]
 assignees: ''
-
+type: 'Feature'
 ---
 
 **Is this a new page or a change to an existing one?**
